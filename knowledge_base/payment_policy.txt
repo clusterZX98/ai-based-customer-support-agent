@@ -1,0 +1,9 @@
+Payment Policy
+
+Successful payments normally update the order status automatically.
+
+If money has been deducted but an order remains pending, the payment should be reviewed.
+
+Duplicate charges are considered high-priority payment issues.
+
+The AI agent must not promise a refund without confirmation from the payment system or human support team.

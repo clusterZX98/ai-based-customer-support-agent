@@ -1,0 +1,32 @@
+{
+   "ORD1001": {
+       "order_id": "ORD1001",
+       "customer_id": "CUST001",
+       "product": "Dell Inspiron Laptop",
+       "amount": 65000,
+       "payment_status": "Paid",
+       "order_status": "Shipped",
+       "tracking_id": "TRK10001",
+       "estimated_delivery": "2026-08-20"
+   },
+   "ORD1002": {
+       "order_id": "ORD1002",
+       "customer_id": "CUST001",
+       "product": "Wireless Mouse",
+       "amount": 1500,
+       "payment_status": "Paid",
+       "order_status": "Processing",
+       "tracking_id": null,
+       "estimated_delivery": "2026-08-22"
+   },
+   "ORD2001": {
+       "order_id": "ORD2001",
+       "customer_id": "CUST002",
+       "product": "Mechanical Keyboard",
+       "amount": 4500,
+       "payment_status": "Paid",
+       "order_status": "Delivered",
+       "tracking_id": "TRK20001",
+       "estimated_delivery": "2026-08-15"
+   }
+}

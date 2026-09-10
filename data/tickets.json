@@ -1,0 +1,11 @@
+[
+    {
+        "ticket_id": "TKT-420DEC4D",
+        "customer_id": "CUST001",
+        "category": "Human Escalation",
+        "description": "Intent=FAQ, confidence=0.50. Message: hii",
+        "priority": "Medium",
+        "status": "Open",
+        "created_at": "2026-08-26T12:17:14.360117"
+    }
+]
